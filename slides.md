@@ -1,6 +1,6 @@
-% Demandez le programme
+% Café LoOPS - notebooks rendering
 % Vincent Rouvreau
-% 26 november 2019
+% 4th of February 2020
 
 ## What were the problems ?
 
